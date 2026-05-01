@@ -37,7 +37,7 @@ C++ | Python | JavaScript
 
 <p align="center">
   <img src="images/c.png" width="80">
-  <img src="images/python.png" width="80">
+  <img src="images/phyton.png" width="80">
   <img src="images/js.png" width="80">
 </p>
 
@@ -46,15 +46,15 @@ C++ | Python | JavaScript
 ## 🎯 Current Goals
 - Improve my programming skills  
 - Contribute to real-world projects  
-- Learn more about DevOps and automation  
+}- Learn more about DevOps and automation  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicole480&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole480&layout=compact&theme=tokyonight">
 </p>
 
 ---
