@@ -49,16 +49,6 @@ C++ | Python | JavaScript
 }- Learn more about DevOps and automation  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicole480&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole480&layout=compact&theme=tokyonight">
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
