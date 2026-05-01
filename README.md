@@ -62,7 +62,7 @@ C++ | Python | JavaScript
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU-USUARIO&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com/?user=nicole480&theme=tokyonight">
 </p>
 
 ---
@@ -91,7 +91,7 @@ C++ | Python | JavaScript
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/TU-USUARIO
+- GitHub: https://github.com/nicole480
 
 ---
 
