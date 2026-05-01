@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-**Aspiring Software Developer | Tech Enthusiast | Continuous Learner 🚀# 👩‍💻 Nicole Rico Mendoza
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
 **Aspiring Software Developer | Tech Enthusiast | Continuous Learner 🚀**
 
 ---
